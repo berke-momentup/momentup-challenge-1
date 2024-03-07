@@ -12,11 +12,6 @@
     "test": {
       "name": "test",
       "command": "yarn test",
-      "runAtStart": false
-    },
-    "y": {
-      "name": "y",
-      "command": "yarn run test",
       "runAtStart": true
     }
   }
