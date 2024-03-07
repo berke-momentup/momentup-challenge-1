@@ -2,12 +2,9 @@
   "name": "momentup-challenge-1",
   "version": "1.0.0",
   "description": "**Amaç:** Verilen bir sayıya kadar Fibonacci serisindeki asal sayıları bulan bir JavaScript fonksiyonu yazın.",
-  "main": "index.js",
+  "main": "findPrimeInFibonacci.js",
   "scripts": {
-    "start": "nodemon index.js"
-  },
-  "dependencies": {
-    "nodemon": "^3.1.0"
+    "test": "jest --watchAll"
   },
   "author": "",
   "license": "ISC"
