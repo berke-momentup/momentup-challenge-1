@@ -18,7 +18,7 @@ Fibonacci serisi, her sayının kendisinden önce gelen iki sayının toplamı o
 findPrimeInFibonacci(0); // 0
 findPrimeInFibonacci(1); // []
 findPrimeInFibonacci(3); // [2]
-findPrimeInFibonacci(5); // [2, 3]
+findPrimeInFibonacci(4); // [2, 3]
 findPrimeInFibonacci(10); // [2, 3, 5, 13]
 findPrimeInFibonacci(-6); // Pozitif tam sayı giriniz
 findPrimeInFibonacci("abc"); // Pozitif tam sayı giriniz
