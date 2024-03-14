@@ -13,7 +13,7 @@ test("should output [2]", () => {
 });
 
 test("should output [2, 3]", () => {
-  expect(findPrimeInFibonacci(5)).toStrictEqual([2, 3]);
+  expect(findPrimeInFibonacci(4)).toStrictEqual([2, 3]);
 });
 
 test("should output [2, 3, 5, 13]", () => {
